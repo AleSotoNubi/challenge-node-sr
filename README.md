@@ -1,4 +1,4 @@
-![screenshot](https://puu.sh/HyrmV/95c458d9d9.png)
+![screenshot](https://camo.githubusercontent.com/c7cfb1e5bef9af3630d019527a62176ca3861e725b35adf41e3d544f9310d08a/68747470733a2f2f7075752e73682f4879726c492f376164666239313165322e706e67)
 
 #
 &nbsp;
