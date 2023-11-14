@@ -26,6 +26,7 @@ Este challenge esta pensado para que pueda resolverse sin alguna libreria/depend
 - Un endpoint para crear un nuevo usuario
 - Un endpoint para eliminar un usuario
 - Un endpoint para modificar un usuario
+- Utilizar en cada endpoint una forma diferente de manejo de asincronismo (callbacks, promises, async/await)
 - Usar typescript
 - Que soporte QueryParams como:
   - pagination: `?page=2&limit=5`
@@ -34,6 +35,7 @@ Este challenge esta pensado para que pueda resolverse sin alguna libreria/depend
 - Seguridad
 - Test Unitarios
 - Dockerfile y docker-compose que permita levantar la API ejecutando "docker-compose up" con todo lo necesario.
+- Collection de postman o equivalente para probar todos los endpoints
 
 
 
