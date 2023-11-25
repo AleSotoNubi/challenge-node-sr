@@ -42,14 +42,10 @@ Este challenge esta pensado para que pueda resolverse sin alguna libreria/depend
 &nbsp;
 ## Proceso de revisión ✅
 
-Durante la revisión estamos considerando varios factores, a continuacion una lista de ejemplo
-- Enfoque general para el desarrollo de API
-- Uso de módulos nativos, prototipos, etc.
-- manejo de variables y scopes
-- Uso de dependencias NPM
-- Buenas prácticas de docker
-- Estilo de código y consistencia.
-- Git commit frecuencia y calidad
-- Corrección lógica
-- Rendimiento y eficiencia
-- Simplicidad y flexibilidad.
+Durante la revisión estamos considerando varios factores, entre ellos:
+- Enfoque general para el desarrollo de API, como esten divividas las responsabilidades en el diseño.
+- Estilo de código, claridad y consistencia. Corrección lógica.
+- Simplicidad de la implementación.
+- Buenas prácticas en el uso de docker.
+- Correcto uso de dependencias npm.
+- Flexibilidad de la solucion propuesta.
