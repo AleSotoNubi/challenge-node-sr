@@ -32,7 +32,7 @@ Este challenge esta pensado para que pueda resolverse sin alguna libreria/depend
   - pagination: `?page=2&limit=5`
   - sorting: `?sortBy=email&sortDirection=ascending`
   - matching: `?match[email]=jdoe@example.com`
-- Seguridad
+- Seguridad (proteger los endpoints contra uso no autorizado, implementando algun mecanismo de validacion de acceso a los mismos)
 - Test Unitarios
 - Dockerfile y docker-compose que permita levantar la API ejecutando "docker-compose up" con todo lo necesario.
 - Collection de postman o equivalente para probar todos los endpoints
